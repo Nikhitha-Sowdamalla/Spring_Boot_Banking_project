@@ -14,7 +14,7 @@ This is a **Spring Boot Banking API** that allows:
 ## 💾 Technologies Used  
 - ✅ **Spring Boot 3.0+**  
 - ✅ **H2 Database (in-memory)**  
-- ✅ **Java 17+**  
+- ✅ **Java 8+**  
 - ✅ **Spring Web (REST APIs)**  
 
 ---
